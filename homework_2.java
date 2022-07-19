@@ -73,6 +73,7 @@ public class homework_2 {
 
 
         System.out.printf("this is hardik now just do it");
+        System.out.printf("this is hardik now just do it second time ");
 
 
     }
