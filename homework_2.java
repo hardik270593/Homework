@@ -71,6 +71,8 @@ public class homework_2 {
 
         System.out.println("\n * testing git  *");
 
+        System.out.printf("System.out.println(\"\\n * testing git  *\");");
+
 
 
 
