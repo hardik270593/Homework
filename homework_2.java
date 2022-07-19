@@ -69,6 +69,8 @@ public class homework_2 {
 
         System.out.println("\n * Data type  Arithmetic operator  *");
 
+        System.out.println("\n * testing git  *");
+
 
 
 
