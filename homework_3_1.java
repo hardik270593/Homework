@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class homework_3_1 {
     public static void main(String[] args) {
         Scanner H = new Scanner(System.in);
+
         System.out.println("*--- choose switch number ----*");
         System.out.println(" 1.check even or odd number \n 2.print table \n 3.check person can give vot or not \n 4. check positive or negative number \n 5.check positive , negative and zero number ");
         System.out.println("*------------------------------*");
@@ -71,5 +72,6 @@ public class homework_3_1 {
             }
             break;
         }
-    }
+
+        }
 }
