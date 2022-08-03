@@ -1,6 +1,17 @@
 package Homework;
 
 public class homework_4_1 {
+    public static void main(String[] args) {
+        a();
+        b();
+        c();
+        d();
+        e();
+        f();
+        g();
+
+
+    }
 
     static void a(){
         int x= 1;
@@ -142,15 +153,5 @@ public class homework_4_1 {
     }
 
 
-    public static void main(String[] args) {
-        a();
-        b();
-        c();
-        d();
-        e();
-        f();
-        g();
 
-
-    }
 }
