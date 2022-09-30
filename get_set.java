@@ -1,4 +1,4 @@
-package Hardik_code;
+package Homework;
 
 public class get_set {
     // creating variable in class not in main method

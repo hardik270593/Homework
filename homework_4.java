@@ -2,6 +2,8 @@ package Homework;
 
 public class homework_4 {
     public static void main(String[] args) {
+
+       // switch case with calendar month
         int x= 1;
         switch (x){
             case 1: {

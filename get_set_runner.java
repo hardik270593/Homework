@@ -1,12 +1,15 @@
-package Hardik_code;
+package Homework;
+
+import Hardik_code.get_set;
 
 public class get_set_runner {
     public static void main(String[] args) {
-        get_set l =new get_set();
+        Hardik_code.get_set l =new get_set();
         l.id = 01;
         l.name = "hardik";
         l.number =758775505;
-        l.setSalary(4500,27);
+        l.setSalary(4500);
+        l.setDob(27);
         l.getSalary();
 
         l.getDob();

@@ -2,6 +2,9 @@ package Homework;
 
 public class homework_4_1 {
     public static void main(String[] args) {
+
+        // all method calling
+       // all method call like   a();
         a();
         b();
         c();
@@ -9,8 +12,6 @@ public class homework_4_1 {
         e();
         f();
         g();
-
-
     }
 
     static void a(){

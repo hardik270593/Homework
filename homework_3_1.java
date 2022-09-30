@@ -58,6 +58,7 @@ public class homework_3_1 {
                 }
             }
             break;
+            // positive , negative and zero
             case 5: {
                 System.out.println("enter number to check positive , negative or zero :-");
                 int n = Integer.parseInt(H.nextLine());

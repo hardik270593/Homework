@@ -3,6 +3,8 @@ package Homework;
 public class homework_2 {
     public static void main(String[] args) {
 
+// data type and all calculative operator
+
         byte a= 90;
         byte b = 10;
         System.out.println("\n * Data type BYTE *");

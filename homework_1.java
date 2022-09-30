@@ -2,6 +2,9 @@ package Homework;
 
 public class homework_1 {
     public static void main(String[] args) {
+
+        //simple program with all operators
+
         System.out.println("\n * LOGICAL OPERATORS *");
         int F = 30;
         int G = 90;
